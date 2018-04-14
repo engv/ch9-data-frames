@@ -15,7 +15,7 @@ us_exp <- is.data.frame(USPersonalExpenditure)
 result <- data.frame(USPersonalExpenditure)
 
 # What are the column names of your dataframe?
-X1940  X1945 X1950 X1955 X1960 
+X1940  X1945 X1950 X1955 X1960
 
 ## Consider: why are they so strange? Think about whether you could use a number 
 ## like 1940 with dollar notation!
